@@ -1,4 +1,4 @@
-module common_go
+module github.com/RandySteven/common_go
 
 go 1.23
 
